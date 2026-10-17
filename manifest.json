@@ -1,0 +1,18 @@
+{
+  "name": "Zameendari & Kisaan Hisab Kitab",
+  "short_name": "Zameendari Hisab",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#176b45",
+  "description": "Zameendari aur kisaan ka hisaab kitab offline istemal ke liye",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
